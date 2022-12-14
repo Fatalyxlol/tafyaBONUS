@@ -1,0 +1,8 @@
+                   a         b         c
+~         (A)	       A,B	         -	         C	
+         (A,B)	     A,B,C	         -	         C	
+         (C)	         -	         C	         B	
+         (A,B,C)	     A,B,C	         C	       B,C	
+           B	       A,C	         -	         -	
+         (B,C)	       A,C	         C	         B	
+         (A,C)	       A,B	         C	       B,C	
